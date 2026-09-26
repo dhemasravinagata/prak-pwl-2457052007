@@ -1,18 +1,3 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-    <title>PWL demas</title>
-</head>
-<body>
-
-    <h1>Judul Besar</h1>
-    <h2>Sub Judul</h2>
-
-    <p>Ini adalah teks paragraf.</p>
-
-</body>
-</html> -->
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
