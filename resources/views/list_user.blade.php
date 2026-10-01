@@ -8,7 +8,7 @@
         </h4>
     </div>
 </div>
-
+0
 {{-- Memanggil komponen dinamis tabel distro --}}
 <x-user-table :users="$users" />
 @endsection
